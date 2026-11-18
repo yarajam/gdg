@@ -2,4 +2,3 @@ To Do List:
 
 1. Study for Exam 
 2. Attend GDG session 
-3. Solve assignment
